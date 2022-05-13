@@ -1,0 +1,20 @@
+{
+  "name": "czarofcards",
+  "version": "1.0.0",
+  "description": "A simple cards against humanity game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "pnpm": ">=3"
+  },
+  "keywords": [
+    "cards"
+  ],
+  "author": "JoshuaPelealu",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.2.9"
+  }
+}
